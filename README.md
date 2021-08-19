@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Leocassio Silva 👋
 - 🔭 Bolsista no NADIC com no Projeto Inteligência Artificial Aplicada a Licitações Públicas.
-- 
+
+
 <div>
   <a href="https://github.com/leocassiosilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leocassiosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +25,8 @@
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
-
+ ##
+  
 <div> <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <a href = "mailto:leocassiosilva1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leocassio-silva-924b04181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
