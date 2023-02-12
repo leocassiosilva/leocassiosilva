@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Leocassio Silva 👋
 - Graduado em Licenciatura em Computação - UFERSA;  
 - Graduado em Análise e Desenvolvimento de Sistema - IFRN Campus Pau dos Ferros;
-- Estagiario
 - 🔭 Foi Bolsista no NADIC no Projeto Inteligência Artificial Aplicada a Licitações Públicas.
 
 <div> <!-- https://github.com/anuraghazra/github-readme-stats -->
