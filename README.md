@@ -1,32 +1,51 @@
+![](https://komarev.com/ghpvc/?username=leocassiosilva&color=006bed)
 ### Olá! Eu sou o Leocassio Silva 👋
-- Graduado em Licenciatura em Computação - UFERSA;  
-- Graduado em Análise e Desenvolvimento de Sistema - IFRN Campus Pau dos Ferros;
-- 🔭 Foi Bolsista no NADIC no Projeto Inteligência Artificial Aplicada a Licitações Públicas. 
-<div> <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/leocassiosilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leocassiosilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocassiosilva&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduado em Licenciatura em Computação - UFERSA e Análise e Desenvolvimento de Sistema - IFRN Campus Pau dos Ferros;
+- 💼 Trabalhando como Desenvolvedor Backemd na Novadata.
+- 🌱 Aprendendo mais sobre Frontend.
+- 🔭 Foi Bolsista no NADIC no Projeto Inteligência Artificial Aplicada a Licitações Públicas.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-</div>
+**Utilidades**
 
- ##
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<br/>
+
+<a href="https://github.com/leocassiosilva" title="Perfil do Leocassio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leocassiosilva&theme=dracula&show_icons=true" />
+</a>
   
 <div> <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <a href = "mailto:leocassiosilva1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
