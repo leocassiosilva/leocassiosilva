@@ -5,7 +5,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduado em Licenciatura em Computação - UFERSA e Análise e Desenvolvimento de Sistema - IFRN Campus Pau dos Ferros;
-- 💼 Trabalhando como Desenvolvedor Backemd na Novadata.
+- 💼 Trabalhando como Desenvolvedor Backend na Novadata.
 - 🌱 Aprendendo mais sobre Frontend.
 - 🔭 Foi Bolsista no NADIC no Projeto Inteligência Artificial Aplicada a Licitações Públicas.
 
